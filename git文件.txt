@@ -31,3 +31,5 @@ Creating a new branch is quick AND simple.2222222222222
 Creating a new branch is a quick and simple.
 
 add merge.
+
+git stash.
